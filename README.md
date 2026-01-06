@@ -8,7 +8,7 @@
 - 実務でのSES／人材管理を想定したマトリックス型データ構造
 
 ## ③アプリのデプロイURL
-- https://tokio-hirano-cyber.github.io/enginner-matrix/
+- https://tokio-hirano-cyber.github.io/matrix_hirano_03/
 
 ※ GitHub Pages 上では UI デモ用途（HTML/CSS）のみ表示  
 ※ PHP / データベース処理はローカルまたはサーバ環境で動作
